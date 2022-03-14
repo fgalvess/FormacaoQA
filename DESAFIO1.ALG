@@ -28,4 +28,4 @@ Inicio
              fimse
         fimse
    fimse
-Fimalgoritmo
+ Fimalgoritmo
